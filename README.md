@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hey! I am Abhijeet👋 
+##### but call me cross if we get to know eachother 😉
+<hr/>
+<br>
+Pursuing BTech Computer Science and IT @SSPU,India
+Currently working as Software Developer Intern @kwiqreply.io 
+
 
 <!--
 **4Redcross/4Redcross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

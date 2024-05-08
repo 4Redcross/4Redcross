@@ -24,7 +24,7 @@
 <i align="left">
   🎓 - Pursuing BTech Computer Science and IT @<a href="https://sspu.ac.in/">SSPU</a> , India
   <br>
-  🧑🏻‍💻 - Currently working as Software Developer Intern @<a href="https://kwiqreply.io/">kwiqreply.io</a>
+  🧑🏻‍💻 - Previous Software Developer Intern @<a href="https://kwiqreply.io/">kwiqreply.io</a>
 </i>
   <hr/>
 <br>
